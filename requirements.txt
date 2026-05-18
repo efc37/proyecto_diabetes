@@ -1,0 +1,30 @@
+# Núcleo científico
+numpy
+pandas
+scipy
+
+# Visualización
+matplotlib
+seaborn
+
+# Machine Learning clásico
+scikit-learn
+imbalanced-learn
+xgboost
+
+# Explicabilidad (XAI)
+shap
+lime
+
+# Fairness / Sesgo
+fairlearn
+
+# Aprendizaje federado y cómputo distribuido
+flwr
+ray
+
+# Jupyter / Notebooks
+jupyter
+notebook
+ipykernel
+ipython
