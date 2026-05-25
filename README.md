@@ -256,4 +256,3 @@ Además, las divisiones `train/test` se realizan de forma estratificada para man
 
 ## Autores
 Sara Mora García, Elena Fernández Cebrián y Joël Expósito Bajo
-Proyecto realizado para la asignatura **Aprendizaje Avanzado**.
